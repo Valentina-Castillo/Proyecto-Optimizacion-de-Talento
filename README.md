@@ -67,9 +67,11 @@ El proyecto se desarrolla en 2 sprints siguiendo principios ágiles:
 
 Sprint  |   Contenido
 -----------------------------------------------------------------------
+
 Sprint 1    Planning → Desarrollo (Fases 1, 2 y 3) → Review + Retro
 
 Sprint 2    Planning → Desarrollo (Fases 4 y 5) → Review final + Demo
+
 -----------------------------------------------------------------------
 
 
